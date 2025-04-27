@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e4bf9776a2815244b9652c49685c2c50
+timeCreated: 1516701985
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JejuGothic
+  fontNames:
+  - JejuGothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
